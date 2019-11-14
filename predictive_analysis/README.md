@@ -1,4 +1,4 @@
-# data_science
+# è³‡æ–™åˆ†æå¯¦æˆ°
 
 <br>
 
@@ -7,22 +7,22 @@
 
 <br>
 
-## Â²¤¶
+## ç°¡ä»‹
 
-³o?¬O¥H¸ê®Æ¤ÀªR¹ê¾Ô?¾É¦Vªºµ§°O¡A°O¿ı¤F§Ú¦bºô¸ô¤W©Î®Ñ¤W¬İ¨ìªº¨Ò¤l¡A³z¹L¾÷¾¹¾Ç²ß¨Ó¹w´ú¤ÀªR¡C
+é€™?æ˜¯ä»¥è³‡æ–™åˆ†æå¯¦æˆ°?å°å‘çš„ç­†è¨˜ï¼Œè¨˜éŒ„äº†æˆ‘åœ¨ç¶²è·¯ä¸Šæˆ–æ›¸ä¸Šçœ‹åˆ°çš„ä¾‹å­ï¼Œé€éæ©Ÿå™¨å­¸ç¿’ä¾†é æ¸¬åˆ†æã€‚
 
 <br>
 
-## ¥Ø¿ı
+## ç›®éŒ„
 
-*   ### [©¥¥Û»P¤ô¹p](./mines-vs-rocks)
+*   ### [å²©çŸ³èˆ‡æ°´é›·](./mines-vs-rocks)
 
-    ¤ÀªRÁn¯Ç±´´úªº¦^À³¼Æ¾Ú¡A±N¸ê®ÆÁıµ¹¼Ò«¬¡A°V½m¥X¤@­Ó¥i¥H³z¹LÁn¯Ç±´´ú¸ê®Æ¨Ó¹w´ú©¥¥Û©ÎªÌ¤ô¹pªº AI¡C
+    åˆ†æè²ç´æ¢æ¸¬çš„å›æ‡‰æ•¸æ“šï¼Œå°‡è³‡æ–™é¤µçµ¦æ¨¡å‹ï¼Œè¨“ç·´å‡ºä¸€å€‹å¯ä»¥é€éè²ç´æ¢æ¸¬è³‡æ–™ä¾†é æ¸¬å²©çŸ³æˆ–è€…æ°´é›·çš„ AIã€‚
     
-    1.  [¨ú±o¸ê®ÆÁ`Åó](./mines-vs-rocks/_01_data_summaries.py)
-    2.  [Äæ¦ì¸ê®ÆªºÃş«¬ (type)](./mines-vs-rocks/_02_column_attr.py)
-    3.  [¸ê®Æ²Î­p](./mines-vs-rocks/_03_data_statistics.py)
-    4.  [µe QQ ¹ÏÀËµø²§±`­È](./mines-vs-rocks/_04_plot_QQ.py)
-    5.  [¨Ï¥Î pandas Åª¨ú¸ê®Æ](./mines-vs-rocks/_05_pandas_read_summaries.py)
+    1.  [å–å¾—è³‡æ–™ç¸½æ”¬](./mines-vs-rocks/_01_data_summaries.py)
+    2.  [æ¬„ä½è³‡æ–™çš„é¡å‹ (type)](./mines-vs-rocks/_02_column_attr.py)
+    3.  [è³‡æ–™çµ±è¨ˆ](./mines-vs-rocks/_03_data_statistics.py)
+    4.  [ç•« QQ åœ–æª¢è¦–ç•°å¸¸å€¼](./mines-vs-rocks/_04_plot_QQ.py)
+    5.  [ä½¿ç”¨ pandas è®€å–è³‡æ–™](./mines-vs-rocks/_05_pandas_read_summaries.py)
     
     <br>
