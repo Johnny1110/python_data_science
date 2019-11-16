@@ -24,5 +24,7 @@
     3.  [資料統計](./mines-vs-rocks/_03_data_statistics.py)
     4.  [畫 QQ 圖檢視異常值](./mines-vs-rocks/_04_plot_QQ.py)
     5.  [使用 pandas 讀取資料](./mines-vs-rocks/_05_pandas_read_summaries.py)
+    6.  [平行座標圖](./mines-vs-rocks/_06_line_plot.py)
+    7.  [比較資料屬性值差](./mines-vs-rocks/_07_compare_attr.py)
     
     <br>
