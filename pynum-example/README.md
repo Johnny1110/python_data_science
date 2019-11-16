@@ -21,7 +21,10 @@ pynum 是 python 資料分析的基石，必須明確了結套件使用。這裏
     2.  [numpy 的屬性 API](./pynum_basic/_02_numpy_attr.py)
     3.  [陣列存取](./pynum_basic/_03_access_arr.py)
     4.  [陣列切片](./pynum_basic/_04_arr_slice.py)
+    5.  [陣列串接與分裂](./pynum_basic/_05_concat&split.py)
     
     <br>
     
 *   ### [numpy 運算](./pynum_ufuncs)
+
+    1.  [正確的 numpy 陣列運算](./pynum-ufuncs/_01_ufuncs_overall.py)

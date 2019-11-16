@@ -70,3 +70,9 @@ print(a2)
 # 若給定的資料不能剛好放完，會報錯。
 a3 = np.arange(1, 10).reshape((3, 3))
 print(a3)
+
+a4 = np.array([1, 2, 3])
+# reshape 建立列向量
+print(a4.reshape(1, 3))
+# reshape 建立欄向量
+print(a4.reshape(3, 1))
